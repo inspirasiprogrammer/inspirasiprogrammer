@@ -6,6 +6,7 @@ I'm a software developer from Medan, Indonesia. I am a Computer Science and Engi
 [![Instagram Badge](https://img.shields.io/badge/-inspirasiprogrammer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/inspirasiprogrammer/)](https://instagram.com/inspirasiprogrammer)
 [![Gmail Badge](https://img.shields.io/badge/-irwansyahputra92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irwansyahputra92@gmail.com)](mailto:irwansyahputra92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-IrwanSyahputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwan-syahputra-b92b37105/)](https://www.linkedin.com/in/irwan-syahputra-b92b37105/)
+[![Telegram Badge](https://img.shields.io/badge/-@inspirasiprogrammer-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/inspirasiprogrammer "Contact on Telegram")
 
 ### You can find my stuff here :leaves:
 
