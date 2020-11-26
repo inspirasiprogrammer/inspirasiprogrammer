@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--- just --->
 
-![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
+![CSharp](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c)
 ![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
