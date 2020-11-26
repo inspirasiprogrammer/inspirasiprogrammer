@@ -1,6 +1,14 @@
-### Hi , i am Irwan Syahputra 👋
+### HELLO,
+
+THIS IS IRWAN SYAHPUTRA 👋
+I'm a software developer from Medan, Indonesia. I am a Computer Science and Engineering undergraduate student at STMIK IBBI Medan, Indonesia. I like building new stuff and work with other people.
 
 <img src="https://github-readme-stats.vercel.app/api?username=inspirasiprogrammer&show_icons=true&hide_border=true&theme=radical" />
+
+### You can find my stuff here :leaves:
+
+- My Personal Website / Blog :yum: [inspirasiprogrammer.id](https://inspirasiprogrammer.id)
+- Dev account [dev.to/inspirasiprogrammer](https://dev.to/inspirasiprogrammer)
 
 Here are some ideas to get you started:
 
