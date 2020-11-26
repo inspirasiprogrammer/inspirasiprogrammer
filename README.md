@@ -2,7 +2,6 @@
 
 I'm a software developer from Medan, Indonesia. I am a Computer Science and Engineering undergraduate student at STMIK IBBI Medan, Indonesia. I like building new stuff and work with other people.
 
-[![Linkedin Badge](https://img.shields.io/badge/-CCNA-blue?style=flat-square&logo=Cisco&logoColor=white&link=https://www.youracclaim.com/users/irwan-syahputra)](https://www.youracclaim.com/users/irwan-syahputra)
 [![Linkedin Badge](https://img.shields.io/badge/-Irwan Syahputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwan-syahputra-b92b37105)](https://www.linkedin.com/in/irwan-syahputra-b92b37105)
 [![Instagram Badge](https://img.shields.io/badge/-inspirasiprogrammer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/inspirasiprogrammer/)](https://instagram.com/inspirasiprogrammer)
 [![Gmail Badge](https://img.shields.io/badge/-irwansyahputra92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irwansyahputra92@gmail.com)](mailto:irwansyahputra92@gmail.com)
