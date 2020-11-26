@@ -7,8 +7,6 @@ I'm a software developer from Medan, Indonesia. I am a Computer Science and Engi
 [![Instagram Badge](https://img.shields.io/badge/-inspirasiprogrammer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/inspirasiprogrammer/)](https://instagram.com/inspirasiprogrammer)
 [![Gmail Badge](https://img.shields.io/badge/-irwansyahputra92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irwansyahputra92@gmail.com)](mailto:irwansyahputra92@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=inspirasiprogrammer&show_icons=true&hide_border=true&theme=radical" />
-
 ### You can find my stuff here :leaves:
 
 - My Personal Website / Blog :yum: [inspirasiprogrammer.id](https://inspirasiprogrammer.id)
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--- just --->
 
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c#)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=csharp)
 ![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
