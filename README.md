@@ -9,8 +9,6 @@ I'm a software developer from Medan, Indonesia. I am a Computer Science and Engi
 [![Telegram Badge](https://img.shields.io/badge/-@IrwanSyahputra-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/inspirasiprogrammer "Contact on Telegram")
 
 ### You can find my stuff here :leaves:
-
-- My Personal Website / Blog :yum: [inspirasiprogrammer.id](https://inspirasiprogrammer.id)
 - Dev account [dev.to/inspirasiprogrammer](https://dev.to/inspirasiprogrammer)
 
 Here are some ideas to get you started:
