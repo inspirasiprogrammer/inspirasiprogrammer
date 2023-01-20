@@ -37,16 +37,17 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=inspirasiprogrammer&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inspirasiprogrammer&hide=TeX&layout=compact)
+### Github Statistic
+<p align="left">
+<a href="https://github.com/inspirasiprogrammer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inspirasiprogrammer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inspirasiprogrammer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=inspirasiprogrammer.inspirasiprogrammer)
 
