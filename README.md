@@ -50,13 +50,3 @@ Here are some ideas to get you started:
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=inspirasiprogrammer.inspirasiprogrammer)
-
-### Languages and Tools
-
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/dot-net.svg" alt="NET" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
