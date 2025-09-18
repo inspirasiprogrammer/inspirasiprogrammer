@@ -1,7 +1,9 @@
 # Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 
 I'm **Irwan Syahputra**, a **Software Developer** from **Medan, Indonesia**.  
-Currently an undergraduate student in **Computer Science and Engineering at STMIK IBBI Medan**.  
+I hold a **Master’s degree in Information Technology** from **Universitas Pembangunan Panca Budi, Medan**,  
+and a **Bachelor’s degree in Computer Science & Engineering** from **STMIK IBBI Medan**.  
+
 I enjoy building impactful software solutions and collaborating with people who share the same passion for technology.
 
 [![CCNA Badge](https://img.shields.io/badge/-CCNA-blue?style=flat-square&logo=Cisco&logoColor=white&link=https://www.youracclaim.com/users/irwan-syahputra)](https://www.youracclaim.com/users/irwan-syahputra)
@@ -18,6 +20,15 @@ I enjoy building impactful software solutions and collaborating with people who 
 - 👯 Open to collaborate on **open-source projects** and **tech startups**.  
 - 💬 Ask me about **Web Development, Databases, Networking, and Cloud**.  
 - ⚡ Fun fact: I mix finance & tech—coding by day, analyzing markets by night.  
+
+---
+
+## 🎓 Education
+- **Magister Teknologi Informasi (M.T.I.)**  
+  Universitas Pembangunan Panca Budi, Medan  
+
+- **Bachelor of Computer Science & Engineering (S.Kom)**  
+  STMIK IBBI Medan, Indonesia  
 
 ---
 
@@ -53,5 +64,5 @@ I enjoy building impactful software solutions and collaborating with people who 
 ---
 
 ### 🔗 More Stuff
-- 🌐 Dev Blog: [dev.to/inspirasiprogrammer](https://dev.to/inspirasiprogrammer)
+- 🌐 Dev Blog: [dev.to/inspirasiprogrammer](https://dev.to/inspirasiprogrammer)  
 - 📫 Reach me: **[Email](mailto:irwansyahputra92@gmail.com)** or **[Telegram](https://t.me/inspirasiprogrammer)**
