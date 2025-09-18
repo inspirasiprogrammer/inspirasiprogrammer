@@ -24,7 +24,7 @@ I enjoy building impactful software solutions and collaborating with people who 
 ---
 
 ## 🎓 Education
-- **Magister Teknologi Informasi (M.T.I.)**  
+- **Magister Teknologi Informasi (M.Kom.)**  
   Universitas Pembangunan Panca Budi, Medan  
 
 - **Bachelor of Computer Science & Engineering (S.Kom)**  
